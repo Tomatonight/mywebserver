@@ -1,2 +1,2 @@
 #!/bin/sh
- g++ main.cpp -o server
+ g++ main.cpp -o /output/server
